@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 枫林忆事</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on 枫林忆事</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>上海市租房信息分析</title>
+      <link>/post/%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%A7%9F%E6%88%BF%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%A7%9F%E6%88%BF%E4%BF%A1%E6%81%AF%E5%88%86%E6%9E%90/</guid>
+      <description>&lt;h2 id=&#34;项目背景&#34;&gt;项目背景&lt;/h2&gt;
+
+&lt;p&gt;随着毕业季和暑假的到来，各大城市又要迎来一批小鲜肉了，摆在大家面前的第一件事就是关于住宿的事了。众所周知，北上广的房价对于大多数刚毕业的或者实习的同学们来说，即使拼爹也是比较难马上定居下来的，所以租房就成了大多数人必须的选择。本项目主要通过对链家网上海地区租房信息的爬取获得数据，进行数据分析后，给出合理的建议。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Python爬取链家网上海市租房信息</title>
+      <link>/post/python%E7%88%AC%E5%8F%96%E9%93%BE%E5%AE%B6%E7%BD%91%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%A7%9F%E6%88%BF%E4%BF%A1%E6%81%AF/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/python%E7%88%AC%E5%8F%96%E9%93%BE%E5%AE%B6%E7%BD%91%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%A7%9F%E6%88%BF%E4%BF%A1%E6%81%AF/</guid>
+      <description>&lt;p&gt;使用Python进行上海市租房信息爬取，通过requests + Beautifulsoup对网页内容进行抓取和数据提取。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

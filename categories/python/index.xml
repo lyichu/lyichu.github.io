@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on 枫林忆事</title>
+    <link>/categories/python/</link>
+    <description>Recent content in Python on 枫林忆事</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python爬取链家网上海市租房信息</title>
+      <link>/post/python%E7%88%AC%E5%8F%96%E9%93%BE%E5%AE%B6%E7%BD%91%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%A7%9F%E6%88%BF%E4%BF%A1%E6%81%AF/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/python%E7%88%AC%E5%8F%96%E9%93%BE%E5%AE%B6%E7%BD%91%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%A7%9F%E6%88%BF%E4%BF%A1%E6%81%AF/</guid>
+      <description>&lt;p&gt;使用Python进行上海市租房信息爬取，通过requests + Beautifulsoup对网页内容进行抓取和数据提取。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
